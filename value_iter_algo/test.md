@@ -1,0 +1,2 @@
+| ![图1：最简单的网格](https://www.jasmine-program.com/resources/0402-value-iter/grid_1.png) | ![图2：1轮迭代后的state value分布和策略](https://www.jasmine-program.com/resources/0402-value-iter/0_value.png) |
+|:--------------------:|:--------------------:|
